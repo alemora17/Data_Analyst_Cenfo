@@ -1,0 +1,3 @@
+Hola Mundo! Mi nombre es Alejandra y tengo 25 años. 
+Estoy llevando este curso para Aprender. 
+En la segunda clase aprendimos sobre Diccionarios y Leer Archivos. 
